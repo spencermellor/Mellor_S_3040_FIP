@@ -1,0 +1,35 @@
+.hidden {
+    display: none;
+}
+
+body {
+    background-color: $main-bg;
+}
+
+h2 {
+    color: #9aff6e;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: -10px;
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+
+p {
+    color: #9aff6e;
+    text-align: center;
+    font-family: 'Helvetica', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: -.1%;
+}
+
+.img {
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
